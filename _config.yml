@@ -23,11 +23,15 @@ analytics:
   twitter: null
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/910f011b-f0aa-41a8-bf7b-aaf4e3e9749d.png
-name: Siyam
+name: SIYAM ILLUSTRATION
 cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: about us
+    url: about us
+    type: external
 favicon: null
 title: Fashion Illustrator
 purpose: []
