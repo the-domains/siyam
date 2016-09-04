@@ -1,28 +1,33 @@
-name: Siyam
-favicon: null
-layout_spectrum: 0.7095522943418473
-typography_spectrum: 0.2802059904206544
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+typography_spectrum: 0.48466
+content_rating:
+  adult: false
+color:
+  brandColors:
+    - '#ffffff'
+    - '#000000'
+    - '#ededed'
+    - '#393939'
+    - '#8f8f8f'
+  brandStrength: 0.875
+  lightness: 0.75
+  saturation: 0.6875
+  rhythmicContrast: 0.75
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.1497087690513581
-  lightness: 0.2398448616731912
-  saturation: 0.3139517104718834
-  rhythmicContrast: 0.5770104289986193
+layout_spectrum: 0.24639
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/910f011b-f0aa-41a8-bf7b-aaf4e3e9749d.png
+name: Siyam
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Fashion Illustrator
 purpose: []
